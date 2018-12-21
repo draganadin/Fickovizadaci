@@ -1,0 +1,7 @@
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\bin\Debug\FickoviZadaci.exe.config
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\bin\Debug\FickoviZadaci.exe
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\bin\Debug\FickoviZadaci.pdb
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\obj\Debug\FickoviZadaci.csprojAssemblyReference.cache
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\obj\Debug\FickoviZadaci.csproj.CoreCompileInputs.cache
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\obj\Debug\FickoviZadaci.exe
+D:\Gaga\QA\VS-C#\Vezbanje\FickoviZadaci\FickoviZadaci\obj\Debug\FickoviZadaci.pdb
